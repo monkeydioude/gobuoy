@@ -9,7 +9,7 @@ func yeahhhhhBuoyyyy() {
 	// Short for gobuoy.NewKeyMatcher("{}")
 	yb := gobuoy.NewCurlyMatcher()
 
-	// Let's say this URL path hit your API...
+	// Let's say this URL path hits your API...
 	urlPath := "/url-example/buoyyyy"
 
 	// ... and you, an intellect, want to make a route that matches this kind of URL path.
