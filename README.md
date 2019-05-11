@@ -1,4 +1,4 @@
-[![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/monkeydioude/gobuoy/blob/master/LICENSE)
+[![license](http://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Travis Build Status](https://travis-ci.org/monkeydioude/gobuoy.svg?branch=master)](https://travis-ci.org/monkeydioude/gobuoy)
 
 # Go Buoy
@@ -10,5 +10,7 @@ Compared to RegEx use, it is:
 - more secure
 - simpler to write
 - visually simpler to understand
+
+## [See example](./example/example.go)
 
 <img src="https://i.imgur.com/fKc3zPZ.jpg" alt="YEAH BUOYYYY" width="300" />
